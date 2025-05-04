@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <h2 align="center">Languages :</h3>
 
 
-| UA **Ukrainian** - Native |RU **Russian** - Native |
-|---------------------------|------------------------------|
-| 🇬🇧 **English** - Beginner |
 
+| UA **Ukrainian** - Native | RU **Russian** - Native |
 
-
+| GB **English** - Beginner | 
