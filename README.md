@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **tomazlena87@gmail.com**
 
-- ⚡ Fun fact: **I am a Junior QA Engineer and recent graduate of the GoIT course. I have practical experience in manual testing and a strong desire to deepen my knowledge in this field. I am highly motivated to start my career in software testing, become a valuable part of a professional team, and contribute to delivering high-quality products.** 
+   **I am a Junior QA Engineer and recent graduate of the GoIT course. I have practical experience in manual testing and a strong desire to deepen my knowledge in this field. I am highly motivated to start my career in software testing, become a valuable part of a professional team, and contribute to delivering high-quality products.** 
 
 <h3 align="left">Connect with me:</h3>
 
